@@ -1,7 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 import './style/site.css'
-import 'font-awesome/css/font-awesome.min.css'
+import './style/font-awesome/css/fontawesome.min.css'
 import 'bootstrap/dist/css/bootstrap.min.css'
 import 'mdbreact/dist/css/mdb.css'
 import '../node_modules/toastr/build/toastr.min.css'
